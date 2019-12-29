@@ -1,0 +1,29 @@
+#userstories {
+  margin-left: 5%; 
+  margin-top: 5%;
+}
+
+#testui{
+  margin-left: 5%;
+}
+
+#testui >> h2 {
+  text-align: left;
+}
+
+.input-text {
+  width: 100px;
+}
+
+.hr-1 {
+  margin: 50px;
+}
+
+.hr-2 {
+  margin: 50px; 
+  margin-top: 200px;
+}
+
+.data-provider{
+  margin: 5%;
+}
